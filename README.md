@@ -5,7 +5,7 @@ My Passion dives deep in **Embedded Systems**. I have a great experience with mu
 
 - 🌱 I’m currently learning Machine Learning & Mobile Application Development.
 - 💬 Ask me about **`Embedded Systems` , ` AVR MC` & `ARM-Cortex M4`**.
-- 📫 How to reach me: `mmedhat72@gmail.com` & `mostafa.medhat.eng@gmail.com`.
+- 📫 How to reach me: mmedhat72@gmail.com **or** mostafa.medhat.eng@gmail.com.
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Medhat&theme=dracula)
