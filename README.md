@@ -10,5 +10,4 @@ My Passion dives deep in **Embedded Systems**. I have a great experience with mu
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Medhat&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mostafa-Medhat&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostafa-Medhat&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostafa-Medhat&theme=dracula&utcOffset=8)
