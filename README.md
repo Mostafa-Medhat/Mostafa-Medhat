@@ -5,7 +5,7 @@ My Passion dives deep in **Embedded Systems**. I have a great experience with mu
 
 - 🌱 I’m currently performing my military service as a Clinical Engineer Soldier.
 - 💬 Ask me about **`Embedded Systems` , `Pyqt5`, ` AVR MC` & `ARM-Cortex M4`**.
-- 📫 How to reach me: mmedhat72@gmail.com **or** mostafa.medhat.eng@gmail.com.
+- 📫 How to reach me: mostafa.medhat.eng@gmail.com **or** mmedhat72@gmail.com
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Medhat&theme=dracula)
